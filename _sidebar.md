@@ -1,15 +1,19 @@
-* [Home](/)
+- [Home](/)
 
-* TDD
-    * Semana 1
-        * [Introdução](./TDD/Semana1/1.Introdução.md)
-        * [Ciclo do TDD](./TDD/Semana1/2.CicloDoTDD.md)
-        * [Desenvolvendo Testes](./TDD/Semana1/3.DesenvolvendoTestes.md)
-        * [Refatoração](./TDD/Semana1/4.Refatoração.md)
-        * [Exercício Pratico 1](./TDD/Semana1/5.ExercicioPratico.md)
-        * [Código de Qualidade](./TDD/MaterialComplementar/1.CodigoDeQualidade.md)
-        * [BDUF vs NoDUF](./TDD/MaterialComplementar/2.BDUFvsNoDUF.md)
-    * Semana 2
-        * [Chapéu do TDD](./TDD/Semana2/1.ChapeuDoTDD.md)
-        * [Princípios do TDD](./TDD/Semana2/2.PrincipiosTDD.md)
-        * [Mitos e Lendas do TDD](./TDD/Semana2/3.MitosELendas.md)
+- TDD
+  - Semana 1
+    - [Introdução](./TDD/Semana1/1.Introdução.md)
+    - [Ciclo do TDD](./TDD/Semana1/2.CicloDoTDD.md)
+    - [Desenvolvendo Testes](./TDD/Semana1/3.DesenvolvendoTestes.md)
+    - [Refatoração](./TDD/Semana1/4.Refatoração.md)
+    - [Exercício Pratico 1](./TDD/Semana1/5.ExercicioPratico.md)
+    - [Código de Qualidade](./TDD/MaterialComplementar/1.CodigoDeQualidade.md)
+    - [BDUF vs NoDUF](./TDD/MaterialComplementar/2.BDUFvsNoDUF.md)
+  - Semana 2
+    - [Chapéu do TDD](./TDD/Semana2/1.ChapeuDoTDD.md)
+    - [Princípios do TDD](./TDD/Semana2/2.PrincipiosTDD.md)
+    - [Mitos e Lendas do TDD](./TDD/Semana2/3.MitosELendas.md)
+  - Semana 3
+    - [Casos de Testes para Responsabilidades](./Semana3/1.CasosDeTestesResponsabilidades.md)
+    - [Ciclo TDD nos Casos Testes](./Semana3/2.CicloTDDNosCasosDeTestes.md)
+    - [Ciclo TDD nas Responsabilidades](./Semana3/3.CicloTDDNoContextoResponsabilidade.md)
